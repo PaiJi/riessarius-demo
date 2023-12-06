@@ -7,7 +7,7 @@ date: 2023-12-07 03:21:47
 ## My Papers
 
 {% raw %}
-<a target="_blank" href="/resources/publications/Understanding-atypical-decision-making-behavior-with-recurrent-neural-networks-Cosyne-2024.pdf">Understanding atypical decision making behavior with recurrent neural networks - Cosyne 2024</a>
+<a target="_blank" href="resources/publications/Understanding-atypical-decision-making-behavior-with-recurrent-neural-networks-Cosyne-2024.pdf">Understanding atypical decision making behavior with recurrent neural networks - Cosyne 2024</a>
 {% endraw %}
 
 ## Contact Information
